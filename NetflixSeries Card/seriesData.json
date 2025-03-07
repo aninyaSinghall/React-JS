@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Queen Of Tears",
+        "Ratings":  "8.2",
+        "id": "Queen Of Tears",
+        "img_url": "./queen-of-tears.webp",
+        "description": "They often have predictable story arcs, such as rags to riches, rich boy meets poor girl, or children defying their parents ",
+        "watch_utl": "https://www.netflix.com/watch/81726576?trackId=268410292"
+    },
+
+    {
+        "name": "K-drama",
+        "Ratings":  "5.2",
+        "id": "K-drama",
+        "img_url": "./K.drama.jpg",
+        "description": "They often have predictable story arcs, such as rags to riches, rich boy meets poor girl, or children defying their parents ",
+        "watch_utl": "https://www.netflix.com/search?q=k%20drama&jbv=81645371"
+    },
+
+    {
+        "name": "Cash Landing On You",
+        "Ratings":  "7.2",
+        "id": "Cash Landing On You",
+        "img_url": "cash-landing.avif",
+        "description": "They often have predictable story arcs, such as rags to riches, rich boy meets poor girl, or children defying their parents ",
+        "watch_utl": "https://www.netflix.com/search?q=cash%20landin&jbv=81159258"
+    },
+
+    {
+        "name": "Squid Game",
+        "Ratings":  "9.2",
+        "id": "Squid Game",
+        "img_url": "./squid-game.jpg",
+        "description": "They often have predictable story arcs, such as rags to riches, rich boy meets poor girl, or children defying their parents ",
+        "watch_utl": "https://www.netflix.com/search?q=squad%20game&jbv=81040344"
+    },
+
+    {
+        "name": "King The Land",
+        "Ratings":  "9.2",
+        "id": "King The Land",
+        "img_url": "./the-king-hotel.webp",
+        "description": "They often have predictable story arcs, such as rags to riches, rich boy meets poor girl, or children defying their parents ",
+        "watch_utl": "https://www.netflix.com/search?q=the%20king&jbv=81671440"
+    }
+]
